@@ -1,0 +1,16 @@
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\Project_IMC.csproj.AssemblyReference.cache
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\Project_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\Project_IMC.AssemblyInfoInputs.cache
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\Project_IMC.AssemblyInfo.cs
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\Project_IMC.csproj.CoreCompileInputs.cache
+C:\Users\dlean\Desktop\Aula2\Project_IMC\bin\Debug\net5.0\Project_IMC.exe
+C:\Users\dlean\Desktop\Aula2\Project_IMC\bin\Debug\net5.0\Project_IMC.deps.json
+C:\Users\dlean\Desktop\Aula2\Project_IMC\bin\Debug\net5.0\Project_IMC.runtimeconfig.json
+C:\Users\dlean\Desktop\Aula2\Project_IMC\bin\Debug\net5.0\Project_IMC.runtimeconfig.dev.json
+C:\Users\dlean\Desktop\Aula2\Project_IMC\bin\Debug\net5.0\Project_IMC.dll
+C:\Users\dlean\Desktop\Aula2\Project_IMC\bin\Debug\net5.0\Project_IMC.pdb
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\Project_IMC.dll
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\refint\Project_IMC.dll
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\Project_IMC.pdb
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\Project_IMC.genruntimeconfig.cache
+C:\Users\dlean\Desktop\Aula2\Project_IMC\obj\Debug\net5.0\ref\Project_IMC.dll
